@@ -1,7 +1,8 @@
-# ppt-maker 
 
-###Setup
 
-using python 3
-1. 
-ip install -r requirements.txt
+# Setup
+
+**using python 3**
+ 
+>pip install -r requirements.txt <br />
+>python pdfmake.py
